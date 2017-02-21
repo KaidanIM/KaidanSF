@@ -1,0 +1,32 @@
+KaidanSF - Sailfish OS GUI for the XMPP Client Kaidan
+=====================================================
+
+License of KaidanSF source code:
+--------------------------------
+Copyright (C) 2017 KaidanSF developers and contributors (see source file
+comments and the version control log)
+
+KaidanSF is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+KaidanSF is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with KaidanSF.  If not, see <http://www.gnu.org/licenses/>.
+
+
+License of KaidanSF media (images, sounds):
+-------------------------------------------
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+http://creativecommons.org/licenses/by-sa/4.0/
+
+Copyright (C) YEAR COPYRIGHT-HOLDER (LICENSE OR ALTERNATIVE LICENSE):
+  FILE.EXT
+
+License of all media files not listed in here:
+Copyright (C) 2017 KaidanSF developers (CC BY-SA 4.0)
